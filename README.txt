@@ -1,6 +1,6 @@
 === Acme Footer Image ===
-Contributors: tommcfarlin
-Donate link: http://tommcfarlin.com/
+Contributors: Mahfuz Rahman
+Donate link: http://mahfuzurrahman.me
 Tags: featured images
 Requires at least: 3.9.2
 Tested up to: 3.9.2
