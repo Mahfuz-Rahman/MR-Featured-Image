@@ -1,4 +1,4 @@
-=== Acme Footer Image ===
+=== MR Footer Image ===
 Contributors: Mahfuz Rahman
 Donate link: http://mahfuzurrahman.me
 Tags: featured images
