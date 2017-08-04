@@ -13,7 +13,7 @@ Append a featured image at the bottom of the content of a post or page.
 == Description ==
 
 Append a featured image at the bottom of the content of a post or page. Used as a demo
-for a Tuts+ Code tutorial.
+for practicing purpose.
 
 == Installation ==
 
