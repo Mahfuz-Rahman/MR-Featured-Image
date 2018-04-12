@@ -1,6 +1,5 @@
 === MR Footer Image ===
 Contributors: Mahfuz Rahman
-Donate link: http://mahfuzurrahman.me
 Tags: featured images
 Requires at least: 3.9.2
 Tested up to: 3.9.2
@@ -14,16 +13,6 @@ Append a featured image at the bottom of the content of a post or page.
 
 Append a featured image at the bottom of the content of a post or page. Used as a demo
 for practicing purpose.
-
-== Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
 
 == Changelog ==
 
